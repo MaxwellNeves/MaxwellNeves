@@ -28,13 +28,8 @@
      <img align="center" alt="Maxwell-NodeJs" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Maxwell-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   </br>
-  <img align="right"  alt="Maxwell-Pic" height="150" src="maxwell.gif">
   </div>
-  
-##
-   </br>
-  </br>
-
+   <img align="right"  alt="Maxwell-Pic" height="150" src="maxwell.gif">
 <div>
 <!--CONTATOS -->
   <a href="https://www.linkedin.com/in/maxwellgomesneves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
