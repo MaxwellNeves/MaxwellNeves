@@ -1,10 +1,8 @@
-<h1 align="center">Hello, World! <br> I'm Maxwell Neves</h1>
+<h1 align="center">Hello, World! <br> I'm Maxwell Neves.</h1>
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaxwellNeves&theme=tokyonight"/> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MaxwellNeves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellNeves&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaxwellNeves&theme=tokyonight&hide_border=true"/>
-
- ##
 </div>
   </br>
 <div>
@@ -27,7 +25,9 @@
   <img align="center" alt="Maxwell-spring" height="40" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
      <img align="center" alt="Maxwell-NodeJs" height="45" width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Maxwell-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-   ##
+  <div>
+    <br/>
+  </div>
   </br>
   </div>
    <img align="right"  alt="Maxwell-Pic" height="150" src="maxwell.gif">
